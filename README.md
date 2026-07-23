@@ -80,7 +80,7 @@ npm install
 ### Step 4: Install Global CLI Tool
 
 ```cmd
-npm install faustjs-cont
+npm install block_package
 ```
 
 ### Step 5: Build the theme
